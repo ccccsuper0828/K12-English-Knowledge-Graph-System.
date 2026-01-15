@@ -221,12 +221,4 @@ A: 建议为常用查询字段创建索引，适当调整Neo4j内存配置。
 
 本项目采用 MIT 许可证。详情请见 [LICENSE](LICENSE) 文件。
 
-## 📞 联系方式
-
-如有问题或建议，请通过以下方式联系：
-- 邮箱: your-email@example.com
-- 项目Issues: [GitHub Issues](https://github.com/your-repo/issues)
-
----
-
 ⭐ 如果这个项目对你有帮助，请给一个Star！
